@@ -1,0 +1,17 @@
+ThirdSchema.cst_nm.cust_f_name
+ThirdSchema.cst_nm.cust_l_name
+ThirdSchema.cst_cont.email_address.email_id
+ThirdSchema.cst_cont.email_address.email_type
+ThirdSchema.cst_cont.email_address.last_update_TS
+ThirdSchema.cst_cont.phones.mobile.area_cd
+ThirdSchema.cst_cont.phones.mobile.mobile_number
+ThirdSchema.cst_cont.phones.mobile.lst_updt_ts
+ThirdSchema.cst_cont.phones.landline.area_cd
+ThirdSchema.cst_cont.phones.landline.landline_number
+ThirdSchema.cst_cont.phones.landline.last_update_TS
+ThirdSchema.cst_cont.address_detail.address_line_1
+ThirdSchema.cst_cont.address_detail.address_line_2
+ThirdSchema.cst_cont.address_detail.city
+ThirdSchema.cst_cont.address_detail.state
+ThirdSchema.cst_cont.address_detail.zip
+ThirdSchema.cust_dob.birth_date
